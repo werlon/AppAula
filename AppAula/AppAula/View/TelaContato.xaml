@@ -8,11 +8,13 @@
             <Entry x:Name="Email" Placeholder="Informe o e-mail"></Entry>
             <Entry x:Name="Telefone" Placeholder="Informe o telefone"></Entry>
 
-            <Button x:Name="btnSalvar" Text="Salvar" Clicked="SalvarClicked"></Button>
+            <StackLayout   VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"  Orientation="Horizontal">
+                <Button x:Name="Salvar" Text="Salvar" Clicked="SalvarClicked"></Button>
+                <Button x:Name="Excluir" Text="Excluir" Clicked="ExcluirClicked"></Button>
+                <Button x:Name="Editar" Text="Editar" Clicked="VisualizarItemClicked"></Button>
+            </StackLayout>
 
             <ListView x:Name="Lista"></ListView>
-
-            <Button x:Name="btnRemover" Text="Remover" Clicked="RemoverClicked"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
