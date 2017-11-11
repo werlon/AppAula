@@ -14,7 +14,9 @@ namespace AppAula
         {
             InitializeComponent();
 
-            MainPage = new TelaContato();
+            //            MainPage = new TelaContato();
+            MainPage = new NavigationPage(new TelaPrincipal());
+            // na view da tela principal colocar <ToobarItem>
         }
 
         protected override void OnStart()

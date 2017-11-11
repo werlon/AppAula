@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppAula.TelaPrincipal">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="AulaControles" Text="Aula" Activated="AulaControles_Activated" Priority="0" Order="Primary"/>
+        <ToolbarItem Name="DatePickerMenu" Text="DatePicker" Activated="DatePickerMenu_Activated" Priority="1" Order="Secondary"/>
+        <ToolbarItem Name="TelaContato" Text="Contato" Activated="TelaContato_Activated" Priority="4" Order="Secondary"/>
+        <ToolbarItem Name="Reload" Text="Reload Page" Activated="Reload_Activated" Priority="3" Order="Secondary"/>
+        <ToolbarItem Name="TextoEditor" Text="Editor" Activated="TextoEditor_Activated" Priority="2" Order="Secondary"/>
+        <ToolbarItem Name="PagePicker" Text="Picker" Activated="PagePicker_Activated" Priority="5" Order="Primary"/>
+    </ContentPage.ToolbarItems>
+</ContentPage>

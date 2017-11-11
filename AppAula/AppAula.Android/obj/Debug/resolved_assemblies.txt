@@ -37,6 +37,7 @@ C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\a
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.Collections.dll
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
+C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.Reflection.dll
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.Linq.dll
@@ -44,7 +45,6 @@ C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\a
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.Globalization.dll
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.Threading.dll
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.Text.Encoding.dll
-C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.ObjectModel.dll
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.ComponentModel.dll
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppAula.AulaControles.PagePicker">
+    <ContentPage.Content>
+        <StackLayout>
+            <Picker>
+                <Picker.Items>
+                    <x:String>Google</x:String>
+                    <x:String>Yahoo</x:String>
+                    <x:String>Uol</x:String>
+                </Picker.Items>
+            </Picker>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -16,3 +16,8 @@ C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.View.Tela
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.dll
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.pdb
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.csprojResolveAssemblyReference.cache
+C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.TelaPrincipal.xaml.g.cs
+C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.AulaControles.PageDatePicker.xaml.g.cs
+C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.AulaControles.PageReload.xaml.g.cs
+C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.AulaControles.PageTexto.xaml.g.cs
+C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.AulaControles.PagePicker.xaml.g.cs
