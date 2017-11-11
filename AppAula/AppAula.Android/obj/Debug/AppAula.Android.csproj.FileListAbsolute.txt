@@ -59,3 +59,5 @@ C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\a
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula.Android\bin\Debug\Newtonsoft.Json.xml

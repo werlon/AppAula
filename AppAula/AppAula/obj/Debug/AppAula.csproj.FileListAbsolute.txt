@@ -21,3 +21,7 @@ C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.AulaContr
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.AulaControles.PageReload.xaml.g.cs
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.AulaControles.PageTexto.xaml.g.cs
 C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.AulaControles.PagePicker.xaml.g.cs
+C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.AulaControles.Page1.xaml.g.cs
+C:\Users\Werlon\source\repos\AppAula\AppAula\AppAula\obj\Debug\AppAula.AulaControles.PageConsultaCep.xaml.g.cs

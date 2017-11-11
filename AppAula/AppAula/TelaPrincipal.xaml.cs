@@ -47,5 +47,10 @@ namespace AppAula
         {
             Navigation.PushAsync(new PagePicker());
         }
+
+        private void ConsultaCep_Activated(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new PageConsultaCep());
+        }
     }
 }

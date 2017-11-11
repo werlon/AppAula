@@ -9,5 +9,6 @@
         <ToolbarItem Name="Reload" Text="Reload Page" Activated="Reload_Activated" Priority="3" Order="Secondary"/>
         <ToolbarItem Name="TextoEditor" Text="Editor" Activated="TextoEditor_Activated" Priority="2" Order="Secondary"/>
         <ToolbarItem Name="PagePicker" Text="Picker" Activated="PagePicker_Activated" Priority="5" Order="Primary"/>
+        <ToolbarItem Name="ConsultaCep" Text="Cep" Activated="ConsultaCep_Activated" Priority="6" Order="Primary"/>
     </ContentPage.ToolbarItems>
 </ContentPage>

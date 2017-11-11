@@ -109,6 +109,7 @@ class MonoPackageManager_Resources {
 		"AppAula.Android.dll",
 		"AppAula.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"SQLite.Net.dll",
 		"SQLite.Net.Platform.XamarinAndroid.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",

@@ -16,6 +16,9 @@ namespace AppAula.View
         public TelaContato()
         {
             InitializeComponent();
+
+            //BindingContext = new TelaContato();
+
             this.listarTudo();
         }
 
